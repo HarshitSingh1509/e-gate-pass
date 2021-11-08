@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "898559329657",
+    "project_id": "e-gate-pass",
+    "storage_bucket": "e-gate-pass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898559329657:android:38a7aeecf2803f1dcd9ba8",
+        "android_client_info": {
+          "package_name": "com.example.admin_e_gatepass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898559329657-et0h80a6r3mr2fv4r714g3fdv99cjvlt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin_e_gatepass",
+            "certificate_hash": "cb58a4cd1d9255fd58d555e1a22f98c20860d3fb"
+          }
+        },
+        {
+          "client_id": "898559329657-5otea9v3djb2tfsb8atfkdpguo2luoa8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaWVHgg1VJRLRUCEYYZLRJhTFf61o98ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898559329657-5otea9v3djb2tfsb8atfkdpguo2luoa8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
